@@ -14,10 +14,7 @@
 	}
 
 	public function __construct() {
-		$url = $this->parseURL();
-		var_dump($url);
-	}
+		echo "Web MVC Siap Dijalankan!";
+	  }
 
 }
-	
-?>
